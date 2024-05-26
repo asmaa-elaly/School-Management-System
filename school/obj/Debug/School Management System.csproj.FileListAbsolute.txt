@@ -1,0 +1,16 @@
+C:\Users\loaim\source\repos\firsttry\firsttry\bin\Debug\firsttry.exe.config
+C:\Users\loaim\source\repos\firsttry\firsttry\bin\Debug\firsttry.exe
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\School Management System.csproj.AssemblyReference.cache
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.Attendance.resources
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.Events.resources
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.Fees.resources
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.Intro.resources
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.Main_Menu.resources
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.MainMenu.resources
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.Properties.Resources.resources
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.Students.resources
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.Teachers.resources
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\School Management System.csproj.GenerateResource.cache
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\School Management System.csproj.CoreCompileInputs.cache
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.exe
+C:\Users\loaim\source\repos\firsttry\firsttry\obj\Debug\firsttry.pdb
